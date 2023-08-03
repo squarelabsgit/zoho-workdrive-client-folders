@@ -1,7 +1,7 @@
 # Automatically create structured Client folders in Zoho WorkDrive from Zoho CRM
 Blog Post: https://www.squarelabs.com.au/post/automatically-create-structured-client-folders-in-zoho-workdrive-from-zoho-crm
 
-YouTube: 
+YouTube: https://youtu.be/TbIhJLCtoiQ
 
 If you use Zoho WorkDrive to store your files, you probably have a folder structure that you like to use for your clients and their deals to keep everything organised. Today, I'll be showing you how you can use some automation inside Zoho CRM to seamlessly integrate it with Zoho WorkDrive. This article will enable you to take your organisation to the next level by leveraging the power to automatically create structured client folders in Zoho WorkDrive from Zoho CRM. Say goodbye to manual folder setup and hello to a streamlined process that automatically generates a dedicated deal folder for each of your deals inside the clients folder.
 
