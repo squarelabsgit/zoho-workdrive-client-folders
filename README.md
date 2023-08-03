@@ -362,6 +362,9 @@ I trust that this article has helped provide you with valuable insights and step
 
 Need Help? [Contact us!](https://www.squarelabs.com.au/contact-us)
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=TbIhJLCtoiQ" target="_blank"><img src="http://img.youtube.com/vi/TbIhJLCtoiQ/0.jpg" 
+alt="YouTube Video" width="240" height="180" border="10" /></a>
+
 ## Resources
 GitHub Code: https://github.com/squarelabsgit/zoho-workdrive-client-folders 
 
