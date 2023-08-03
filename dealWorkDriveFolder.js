@@ -1,3 +1,6 @@
+//
+//Refer to YouTube Video: https://youtu.be/TbIhJLCtoiQ
+//
 //Required Variables
 clientFolderUrl = "<<ENTER YOUR CLIENT FOLDER URL HERE>>";
 clientFolderBaseUrl = clientFolderUrl.getPrefix("/files");
