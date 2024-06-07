@@ -14,7 +14,7 @@ To only show files: filters = "filter%5Btype%5D=allfiles";
 ******************************************/
 //Add in any filters to the returned results
 filters = "";
-//Call Workdrive API to get Files/Folders in the Folder
+//Call Workdrive API to get Files/Folders in the Folder (Check your Zoho Domain and udpate the url to match, e.g. zoho.com = zohoapis.com, zoho.eu = zohoapis.au )
 workdriveGetFiles = invokeurl
 [
 	url :"https://www.zohoapis.com/workdrive/api/v1/files/" + workdriveFolderId + "/files?" + filters
