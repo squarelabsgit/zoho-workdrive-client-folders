@@ -1,5 +1,5 @@
 # Automatically create structured Client folders in Zoho WorkDrive from Zoho CRM
-Blog Post: https://www.squarelabs.com.au/post/automatically-create-structured-client-folders-in-zoho-workdrive-from-zoho-crm
+Blog Post: https://www.squarelabs.com.au/blogs/post/automatically-create-structured-client-folders-in-zoho-workdrive-from-zoho-crm
 
 YouTube: https://youtu.be/TbIhJLCtoiQ
 
@@ -10,7 +10,7 @@ Below is the folder structure that we will be implementing, it contains a centra
 
 It's worth noting that the 'Deals' folder will only be created inside the client's folder when there is a deal folder to be added. This approach ensures a clean and organised structure, with the Deals folder dynamically generated as needed.
 
-![WorkDrive Folder Structure](https://static.wixstatic.com/media/c8c3af_a4581eb0cccf4b93b39a89df28c0bb3c~mv2.png/v1/fill/w_740,h_408,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c8c3af_a4581eb0cccf4b93b39a89df28c0bb3c~mv2.png)
+![WorkDrive Folder Structure](https://www.squarelabs.com.au/images/blogs/workdrivefolderstructure.png)
 
 ## How It Works
 Each module will have a "Create WorkDrive Folder" Button. When this button is clicked it will create the WorkDrive folder for the record selected, be that a Contact, Account or Deal.
@@ -43,7 +43,7 @@ To implement the folder structure as described earlier, the first step is to cre
 
 Once you have created the 'Clients' folder, make sure to save its full URL, as this will be a crucial piece of information for our function. The URL will be used to ensure seamless integration and easy access to the 'Clients' folder when we proceed with the automation.
 
-![WorkDrive URL Location](https://static.wixstatic.com/media/c8c3af_56ecd91adeef4915bbd78fcb86fa69c5~mv2.png/v1/fill/w_740,h_206,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c8c3af_56ecd91adeef4915bbd78fcb86fa69c5~mv2.png)
+![WorkDrive URL Location](https://www.squarelabs.com.au/images/blogs/workdriveUrl.png)
 
 ## Zoho CRM Configuration
 To enable this automation, specific field configurations are required within each of the 3 modules in Zoho CRM.
@@ -321,7 +321,7 @@ else
 ## Adding the Button and Link to the Record
 To close out this automation we need to assign the button to each of the modules and create a link that you can use to open the WorkDrive folder.
 
-![Button and Link Locations](https://static.wixstatic.com/media/c8c3af_744bd07831b440efa4f156a8bbeedb45~mv2.png)
+![Button and Link Locations](https://www.squarelabs.com.au/images/blogs/workdriveDealFolderExample.png)
 
 ### Adding the Create WorkDrive Folder Button
 1. Go to Settings > Customization > Modules and Fields
